@@ -21,4 +21,5 @@
 <font color=red size=5>***强烈不建议放在一起安装！！！***</font>
 
 ###部署代码###
+
 git clone https://github.com/Derekxxzzyy/python2.7_guest.git
