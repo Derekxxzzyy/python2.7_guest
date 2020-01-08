@@ -122,7 +122,7 @@ def detect():
 
 
 def text():
-    #camera()
+    camera()
     #fps = fps + fps_plus
     #detect()
     cheack()
